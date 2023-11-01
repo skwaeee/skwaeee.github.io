@@ -1,0 +1,294 @@
+body{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(fon.png);
+
+}
+.poloska{
+    border-top: 3px solid white;
+position: absolute;
+    top: 0em;
+}
+.h1{
+    position: absolute;
+    top: 5em;
+}
+.text1{
+    position: absolute;
+    top: 2em;
+    right: 57em;
+    color:  white;
+}
+.text2{
+    position: absolute;
+    top: 2em;
+    right: 40em;
+    color:  white;
+    
+}
+.text3{
+    position: absolute;
+    top: 2em;
+    right: 23em;
+    color:  white;
+}
+.text4{
+    position: absolute;
+    top: 2em;
+    right: 8em;
+    color:  white;
+}
+.textin{
+    color: white;
+    position: absolute;
+    top: 6em;
+}
+.textin1{
+    color: white;
+    position: absolute;
+    top: 16em;
+font-size: medium;
+}
+.foto1{
+position: absolute;
+top: 9em;
+left: 79em;
+right: 0em;
+
+}
+.foto1:hover{
+    -webkit-transform: rotateZ(20deg);
+-ms-transform: rotateZ(20deg);
+transform: rotateZ(20deg);
+    transition-delay: .5s;
+}
+.foto1:hover:hover{
+transition: scale(1.5,1.5);
+
+-webkit-transform: rotateZ(20deg);
+-ms-transform: rotateZ(20deg);
+transform: rotateZ(20deg);
+    transition-delay: .5s;
+}
+
+.textin2{
+    color: white;
+    position: absolute;
+    top: 26em;
+    font-size: medium;
+    left: 80em;
+}
+.textin3{
+    color: white;
+    position: absolute;
+    top: 10em;
+    left: 0em;
+    
+}
+.textin4{
+    color: white;
+    position: absolute;
+    top: 25em;
+    left: 0em;
+    font-size: medium;
+    
+}
+.logo1{
+    position: absolute;
+top: 9em;
+left: 100em;
+right: 0em;
+width: 280;
+height: 280;
+transition: 2s;
+}
+.textin5{
+    color: white;
+    position: absolute;
+    top: 26em;
+    font-size: medium;
+    left: 100em;
+}
+.textin6{
+    color: white;
+    position: absolute;
+    top: 16em;
+    left: 0em;
+}
+.textin7{
+    color: white;
+    position: absolute;
+    top: 36em;
+    left: 0em;
+    font-size: medium;
+    
+}
+.textin8{
+    color: white;
+    position: absolute;
+    top: 21em;
+    left: 0em;
+}
+.textin9{
+    color: white;
+    position: absolute;
+    top: 47em;
+    left: 0em;
+    font-size: medium;
+    
+}
+.textin10{
+    position: absolute;
+    top: 28em;
+    left: 0em;
+}
+.textin11{
+    position: absolute;
+    top: 60em;
+    left: 0em;
+    font-size: medium;
+}
+.textin12{
+    position: absolute;
+    top: 38em;
+    left: 0em;
+}
+.textin13{
+    position: absolute;
+    top: 80em;
+    left: 0em;
+    font-size: medium;
+}
+.textin14{
+    position: absolute;
+    top: 47em;
+    left: 0em;
+
+}
+.textin15{
+    position: absolute;
+    top: 101em;
+    left: 0em;
+    font-size: medium;
+}
+.textin16{
+    position: absolute;
+    top: 56em;
+    left: 0em;
+
+}
+.textin17{
+    position: absolute;
+    top: 120em;
+    left: 0em;
+    font-size: medium;
+}
+.foto2{
+    position: absolute;
+    top: 6em;
+    left: -1em;
+    right: 0em;
+ }
+.foto3{
+        position: absolute;
+        top: 156em;
+        left: 25em;
+        right: 0em;
+}
+.foto4{
+    position: absolute;
+    top: 156em;
+    left: 63em;
+    right: 0em;
+    width: 300;
+height: 275;
+}
+.textin18{
+    position: absolute;
+    top: 86em;
+    left: 16em;
+
+}
+.textin19{
+    position: absolute;
+    top: 86em;
+    left: 38em;
+
+}
+.tip{
+    position: absolute;
+    top: 94em;
+    left: 1em;
+}
+.tip1{
+    position: absolute;
+    top: 236em;
+    left: 0em;
+    font-size: medium;
+}
+.video{
+    position: absolute;
+    top: 28em;
+right: 0em;
+left: 82em;
+}
+.icontt{
+    position: absolute;
+    top: 0em;
+right: 0em;
+left: 113em;
+height: 60;
+width: 60 ;
+}
+.iconwt{
+    position: absolute;
+    top: 0em;
+right: 0em;
+left: 109em;
+height: 60;
+width: 60 ;
+}
+.icontg{
+    position: absolute;
+    top: 0em;
+right: 0em;
+left: 105em;
+height: 60;
+width: 60 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
